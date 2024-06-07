@@ -1,0 +1,209 @@
+[12-May-2024 19:17:11 UTC] WordPress database error Table 'vbradamr_wp844.wppo_options' doesn't exist for query SELECT option_value FROM wppo_options WHERE option_name = 'theme_switched' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, check_theme_switched, get_option
+[12-May-2024 19:17:12 UTC] WordPress database error Table 'vbradamr_wp844.wppo_posts' doesn't exist for query 
+		SELECT ID, post_name, post_parent, post_type
+		FROM wppo_posts
+		WHERE post_name IN ('favicon-png')
+		AND post_type IN ('page','attachment')
+	 made by require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts, WP_Query->parse_query, get_page_by_path
+[12-May-2024 19:17:12 UTC] WordPress database error Table 'vbradamr_wp844.wppo_posts' doesn't exist for query SELECT   wppo_posts.*
+			 FROM wppo_posts 
+			 WHERE 1=1  AND (wppo_posts.ID = '0') AND wppo_posts.post_type = 'page'
+			 
+			 ORDER BY wppo_posts.post_date DESC
+			  made by require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts
+[12-May-2024 19:17:12 UTC] WordPress database error Table 'vbradamr_wp844.wppo_posts' doesn't exist for query SELECT ID FROM wppo_posts WHERE post_name LIKE 'favicon-png%' AND post_type IN ('post', 'page', 'attachment') AND post_status IN ('publish') made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), do_action('template_redirect'), WP_Hook->do_action, WP_Hook->apply_filters, redirect_canonical, redirect_guess_404_permalink
+[12-May-2024 19:17:12 UTC] WordPress database error Table 'vbradamr_wp844.wppo_terms' doesn't exist for query SELECT  t.term_id
+			 FROM wppo_terms AS t  INNER JOIN wppo_term_taxonomy AS tt ON t.term_id = tt.term_id
+			 WHERE tt.taxonomy IN ('wp_theme') AND t.name IN ('extendable')
+			 
+			 LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), get_404_template, get_query_template, locate_block_template, resolve_block_template, get_block_templates, WP_Query->__construct, WP_Query->query, WP_Query->get_posts, WP_Tax_Query->get_sql, WP_Tax_Query->get_sql_clauses, WP_Tax_Query->get_sql_for_query, WP_Tax_Query->get_sql_for_clause, WP_Tax_Query->clean_query, WP_Tax_Query->transform_query, WP_Term_Query->query, WP_Term_Query->get_terms
+[12-May-2024 19:17:12 UTC] WordPress database error Table 'vbradamr_wp844.wppo_posts' doesn't exist for query SELECT   wppo_posts.ID
+					 FROM wppo_posts 
+					 WHERE 1=1  AND wppo_posts.post_name IN ('404') AND ( 
+  0 = 1
+) AND wppo_posts.post_type = 'wp_template' AND ((wppo_posts.post_status = 'publish'))
+					 GROUP BY wppo_posts.ID
+					 ORDER BY wppo_posts.post_date DESC
+					 LIMIT 0, 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), get_404_template, get_query_template, locate_block_template, resolve_block_template, get_block_templates, WP_Query->__construct, WP_Query->query, WP_Query->get_posts
+[12-May-2024 19:17:12 UTC] WordPress database error Table 'vbradamr_wp844.wppo_posts' doesn't exist for query SELECT   wppo_posts.ID
+					 FROM wppo_posts 
+					 WHERE 1=1  AND wppo_posts.post_name IN ('header') AND ( 
+  0 = 1
+) AND wppo_posts.post_type = 'wp_template_part' AND ((wppo_posts.post_status = 'publish'))
+					 GROUP BY wppo_posts.ID
+					 ORDER BY wppo_posts.post_date DESC
+					 LIMIT 0, 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, render_block_core_template_part, WP_Query->__construct, WP_Query->query, WP_Query->get_posts
+[12-May-2024 19:17:12 UTC] WordPress database error Table 'vbradamr_wp844.wppo_options' doesn't exist for query SELECT option_value FROM wppo_options WHERE option_name = 'site_logo' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, render_block_core_template_part, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_site_logo, get_custom_logo, get_theme_mod, apply_filters('theme_mod_custom_logo'), WP_Hook->apply_filters, _override_custom_logo_theme_mod, get_option
+[12-May-2024 19:17:12 UTC] WordPress database error Table 'vbradamr_wp844.wppo_posts' doesn't exist for query SELECT   wppo_posts.ID
+					 FROM wppo_posts 
+					 WHERE 1=1  AND ( 
+  0 = 1
+) AND wppo_posts.post_type = 'wp_global_styles' AND ((wppo_posts.post_status = 'publish'))
+					 GROUP BY wppo_posts.ID
+					 ORDER BY wppo_posts.post_date DESC
+					 LIMIT 0, 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, render_block_core_template_part, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, WP_Block->render, apply_filters('render_block'), WP_Hook->apply_filters, WP_Duotone::render_duotone_support, WP_Duotone::get_all_global_style_block_names, WP_Theme_JSON_Resolver::get_merged_data, WP_Theme_JSON_Resolver::get_user_data, WP_Theme_JSON_Resolver::get_user_data_from_wp_global_styles, WP_Query->query, WP_Query->get_posts
+[12-May-2024 19:17:12 UTC] WordPress database error Table 'vbradamr_wp844.wppo_posts' doesn't exist for query SELECT   wppo_posts.*
+			 FROM wppo_posts 
+			 WHERE 1=1  AND wppo_posts.post_type = 'page' AND ((wppo_posts.post_status = 'publish'))
+			 
+			 ORDER BY wppo_posts.menu_order ASC, wppo_posts.post_title ASC
+			  made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, render_block_core_template_part, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_page_list, get_pages, WP_Query->query, WP_Query->get_posts
+[12-May-2024 19:17:12 UTC] WordPress database error Table 'vbradamr_wp844.wppo_posts' doesn't exist for query SELECT   wppo_posts.ID
+					 FROM wppo_posts 
+					 WHERE 1=1  AND wppo_posts.post_name IN ('footer') AND ( 
+  0 = 1
+) AND wppo_posts.post_type = 'wp_template_part' AND ((wppo_posts.post_status = 'publish'))
+					 GROUP BY wppo_posts.ID
+					 ORDER BY wppo_posts.post_date DESC
+					 LIMIT 0, 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, render_block_core_template_part, WP_Query->__construct, WP_Query->query, WP_Query->get_posts
+[12-May-2024 19:17:12 UTC] WordPress database error Table 'vbradamr_wp844.wppo_options' doesn't exist for query SELECT option_value FROM wppo_options WHERE option_name = 'can_compress_scripts' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_block_template_skip_link, wp_register_script, wp_scripts, WP_Scripts->__construct, WP_Scripts->init, do_action_ref_array('wp_default_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_default_packages, wp_register_tinymce_scripts, script_concat_settings, get_site_option, get_network_option, get_option
+[12-May-2024 19:17:12 UTC] WordPress database error Table 'vbradamr_wp844.wppo_options' doesn't exist for query SELECT option_value FROM wppo_options WHERE option_name = 'extendify_pattern_was_imported' LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), wp_head, do_action('wp_head'), WP_Hook->do_action, WP_Hook->apply_filters, wp_enqueue_scripts, do_action('wp_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, Extendify\Library\Frontend->enqueueUtilityStyles, get_option
+[12-May-2024 19:23:02 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wpnt_ssa_appointment_type_labels ADD  `` (``) made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, SSA_Upgrade->migrations, SSA_Upgrade->migrate_to_version_6_1_5, SSA_Upgrade->migrate_appointment_type_labels, TD_DB_Model->create_table, dbDelta
+[13-May-2024 19:42:34 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 09:19:36 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 09:28:33 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 09:29:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:42:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:57:13 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:57:18 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:57:23 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:57:28 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:57:33 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:57:38 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:57:43 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:57:48 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:57:53 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:57:58 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:58:03 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:58:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:58:13 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:58:18 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:58:23 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:58:28 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:58:33 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:58:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:58:44 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 11:58:53 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 12:01:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 12:16:01 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:17:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:17:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:17:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:17:37 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:17:42 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:17:47 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:17:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:17:57 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:18:02 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:18:07 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:18:13 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:18:17 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:18:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:18:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:18:33 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:18:37 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:18:41 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:18:47 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:18:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:18:57 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:19:02 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:19:07 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:19:12 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:19:17 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:19:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:19:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:19:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:19:36 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:19:42 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:19:47 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:19:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:19:57 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:20:02 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:20:07 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:20:12 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:20:17 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:20:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:20:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:20:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:20:37 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:20:41 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:21:42 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:21:47 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:21:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:21:57 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:22:02 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:22:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:22:11 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:22:17 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:22:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:22:26 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:22:40 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:22:42 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:22:47 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:22:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:22:56 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:23:02 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:23:07 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:23:11 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:23:17 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:23:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:23:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:23:32 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:23:37 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:23:42 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:23:47 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:23:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:23:57 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:24:03 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:24:07 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:24:12 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:24:17 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:24:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:24:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:24:31 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:24:36 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:24:41 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:24:46 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:24:51 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:24:57 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:25:02 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:25:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:25:12 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[14-May-2024 17:44:09 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[16-May-2024 09:59:15 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[16-May-2024 14:15:14 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[16-May-2024 14:42:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[16-May-2024 14:43:00 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[16-May-2024 14:43:05 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[16-May-2024 15:59:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[18-May-2024 22:07:10 UTC] Cron reschedule event error for hook: litespeed_task_imgoptm_pull, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[18-May-2024 22:07:10 UTC] Cron reschedule event error for hook: litespeed_task_lqip, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"litespeed_filter","args":[],"interval":60}
+[18-May-2024 22:08:20 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp1j_ssa_revisions ADD  `` (``) made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Simply_Schedule_Appointments->hooks, Simply_Schedule_Appointments->plugins_loaded, Simply_Schedule_Appointments->plugin_classes, SSA_Revision_Model->__construct, SSA_Db_Model->__construct, TD_DB_Model->__construct, TD_DB_Model->db_hooks, TD_DB_Model->maybe_create_table, TD_DB_Model->create_table, dbDelta
+[18-May-2024 22:08:20 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp1j_ssa_revision_meta ADD  `` (``) made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Simply_Schedule_Appointments->hooks, Simply_Schedule_Appointments->plugins_loaded, Simply_Schedule_Appointments->plugin_classes, SSA_Revision_Meta_Model->__construct, SSA_Db_Model->__construct, TD_DB_Model->__construct, TD_DB_Model->db_hooks, TD_DB_Model->maybe_create_table, TD_DB_Model->create_table, dbDelta
+[18-May-2024 22:08:20 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp1j_ssa_appointments ADD  `` (``) made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Simply_Schedule_Appointments->hooks, Simply_Schedule_Appointments->plugins_loaded, Simply_Schedule_Appointments->plugin_classes, SSA_Appointment_Model->__construct, SSA_Db_Model->__construct, TD_DB_Model->__construct, TD_DB_Model->db_hooks, TD_DB_Model->maybe_create_table, TD_DB_Model->create_table, dbDelta
+[18-May-2024 22:08:20 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp1j_ssa_appointment_meta ADD  `` (``) made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Simply_Schedule_Appointments->hooks, Simply_Schedule_Appointments->plugins_loaded, Simply_Schedule_Appointments->plugin_classes, SSA_Appointment_Meta_Model->__construct, SSA_Db_Model->__construct, TD_DB_Model->__construct, TD_DB_Model->db_hooks, TD_DB_Model->maybe_create_table, TD_DB_Model->create_table, dbDelta
+[18-May-2024 22:08:20 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp1j_ssa_appointment_types ADD  `` (``) made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Simply_Schedule_Appointments->hooks, Simply_Schedule_Appointments->plugins_loaded, Simply_Schedule_Appointments->plugin_classes, SSA_Appointment_Type_Model->__construct, SSA_Db_Model->__construct, TD_DB_Model->__construct, TD_DB_Model->db_hooks, TD_DB_Model->maybe_create_table, TD_DB_Model->create_table, dbDelta
+[18-May-2024 22:08:21 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp1j_ssa_availability ADD  `` (``) made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Simply_Schedule_Appointments->hooks, Simply_Schedule_Appointments->plugins_loaded, Simply_Schedule_Appointments->plugin_classes, SSA_Availability_Model->__construct, SSA_Db_Model->__construct, TD_DB_Model->__construct, TD_DB_Model->db_hooks, TD_DB_Model->maybe_create_table, TD_DB_Model->create_table, dbDelta
+[18-May-2024 22:08:21 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp1j_ssa_appointment_type_labels ADD  `` (``) made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Simply_Schedule_Appointments->hooks, Simply_Schedule_Appointments->plugins_loaded, Simply_Schedule_Appointments->plugin_classes, SSA_Appointment_Type_Label_Model->__construct, SSA_Db_Model->__construct, TD_DB_Model->__construct, TD_DB_Model->db_hooks, TD_DB_Model->maybe_create_table, TD_DB_Model->create_table, dbDelta
+[18-May-2024 22:08:21 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp1j_ssa_availability_external ADD  `` (``) made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Simply_Schedule_Appointments->hooks, Simply_Schedule_Appointments->plugins_loaded, Simply_Schedule_Appointments->plugin_classes, SSA_Availability_External_Model->__construct, SSA_Db_Model->__construct, TD_DB_Model->__construct, TD_DB_Model->db_hooks, TD_DB_Model->maybe_create_table, TD_DB_Model->create_table, dbDelta
+[18-May-2024 22:08:21 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp1j_ssa_async_actions ADD  `` (``) made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Simply_Schedule_Appointments->hooks, Simply_Schedule_Appointments->plugins_loaded, Simply_Schedule_Appointments->plugin_classes, SSA_Async_Action_Model->__construct, TD_Async_Action_Model->__construct, TD_DB_Model->__construct, TD_DB_Model->db_hooks, TD_DB_Model->maybe_create_table, TD_DB_Model->create_table, dbDelta
+[18-May-2024 23:07:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[18-May-2024 23:07:59 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[18-May-2024 23:11:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[18-May-2024 23:12:39 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[18-May-2024 23:12:49 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[18-May-2024 23:12:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[18-May-2024 23:12:59 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[18-May-2024 23:41:49 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[18-May-2024 23:41:54 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[18-May-2024 23:42:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[19-May-2024 20:57:33 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[19-May-2024 20:57:33 UTC] Cron reschedule event error for hook: ssa_cron_process_async_actions, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"ssa_async_interval","args":[],"interval":60}
+[19-May-2024 21:20:58 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[19-May-2024 21:21:03 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[19-May-2024 21:21:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[19-May-2024 21:21:13 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[19-May-2024 21:21:18 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[19-May-2024 21:21:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[19-May-2024 21:25:22 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Oauth\Components\Connect::get_connect_status(): Status getting error. Reason: User is not connected
+[27-May-2024 02:07:40 UTC] Cron reschedule event error for hook: elementor_1_elementor_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_updater_cron_interval","args":[],"interval":300}

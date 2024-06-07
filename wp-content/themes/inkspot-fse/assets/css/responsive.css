@@ -1,0 +1,29 @@
+/* Mobile Portrait View */
+
+@media screen and (max-width:767px) {
+/*Default CSS*/
+.wp-block-navigation__responsive-container.is-menu-open.has-modal-open{ background-color:#836f63 !important; padding:25px;}
+/*Custom CSS*/
+.wp-block-group.header-Top .wp-block-group{ flex-wrap:wrap !important; gap:5px !important;  flex-direction: column !important; }
+.wp-block-cover.hdrbanner-BX{ min-height:400px !important;}
+.wp-block-group.bannerInfo h3{ font-size:28px !important;}
+.wp-block-group.bannerInfo h5{ font-size:18px !important;}
+.fse-right-menu:after, .order-btn{ display:none !important;}
+.fse-right-menu{ border-radius: 100px !important;}
+body.page-template-front .ink-site-header{ position:relative !important; background-color:#836f63;}
+.tattoos-4box .wp-block-column { border-right:none !important;}
+
+ul.blog-list-style li{ padding:30px; margin-bottom:25px;}
+ul.blog-list-style li .blog-thumbx{ width:100%; float:none; margin:0 0 20px 0;}
+
+}
+
+@media screen and (max-width: 980px){
+	.wpcf7 input[type="text"], 
+	.wpcf7 input[type="tel"], 
+	.wpcf7 input[type="email"], 
+	.wpcf7 textarea{ 
+		width:100%;
+	}
+	
+}

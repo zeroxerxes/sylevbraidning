@@ -1,0 +1,74 @@
+/*
+Theme Name: Inkspot FSE
+Theme URI: https://gracethemes.com/themes/free-tattoo-artists-wordpress-theme/
+Author: Grace Themes
+Author URI: https://gracethemes.com/
+Description: The Inkspot FSE is a free tattoo artists WordPress theme for tattoo artist, tattoo studios, piercing expert, beard dresser, hairdresser and other similar websites can use it best. This multipurpose theme is also suitable for tattoo salon, artist, barber, barbershop, beard, beauty business, hair, health, corporate, business, construction, travel, tour, hotel, coaching, education, restaurant, flower shop, doctor, gym, fitness, modelling, sports and medical. It is full site editing based. Hence, every aspect of this theme can be easily altered according to the requirements of the user. It is completely SEO-friendly, this feature will provide a good ranking to your website in the Google search engine. As this free tattoo artists WordPress theme is compatible with the WooCommerce builder plugin, running financial transactions with this theme will be completely effortless. It is completely multilingual and designed to be translation-ready. So, the language of your website can be readily translated into any language according to the choice of the viewers. Demo: https://gracethemesdemo.com/inkspot/
+Version: 1.2
+License: GNU General Public License version 2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: inkspot-fse
+Requires PHP:  5.6
+Tested up to: 6.4
+Tags:blog, news, portfolio, one-column, two-columns, right-sidebar, block-styles, custom-colors, editor-style, custom-background, custom-menu, featured-images, template-editing, full-site-editing, block-patterns,  threaded-comments, wide-blocks, translation-ready
+Inkspot FSE WordPress Theme has been created by Grace Themes(gracethemes.com), 2023.
+Inkspot FSE WordPress Theme is released under the terms of GNU GPL
+*/
+body { position:relative;}
+.HeaderBanner{ margin-top:-10px !important}
+ul.footer-post li{ margin-bottom:15px !important;}
+ul.footer-post li a.wp-block-latest-posts__post-title{ margin-bottom:5px !important; display:inline-block;}
+.wp-block-navigation ul{ padding:20px !important;}
+.wp-block-navigation .has-child .wp-block-navigation__submenu-container{  background-color:#836f63; padding:5px !important}
+
+body.page-template-front .ink-site-header { background:transparent; position: absolute !important; width:100%; top:auto !important; z-index:999;}
+.ink-site-header{ background-color:#836f63; position:relative;}
+.clear{ clear:both;}
+
+/* = Section1 CSS
+----------------------------------------------- */
+.ink4col .wp-block-image{ background-color:#c58264; border-radius:15px;}
+.ink4col .wp-block-image img{ width:100%;}
+.ink4col:hover .wp-block-image img{ opacity:0.3;}
+.ink4col:hover h4{ color:#c58264;}
+
+/* = Contact Form 7 CSS
+----------------------------------------------- */
+.wpcf7{ margin:30px 0 0;padding:0;}
+.wpcf7 input[type="text"], 
+.wpcf7 input[type="tel"], 
+.wpcf7 input[type="email"]{ width:40%;border:1px solid #cccccc;box-shadow:inset 1px 1px 2px #ccc;color:#797979;margin-bottom:0;height:40px;padding:0 15px;}	
+.wpcf7 textarea{color:#797979;margin-bottom:25px;border:1px solid #cccccc;box-shadow:inset 1px 1px 2px #ccc;padding:10px;width:60%;	height:160px;font-size:12px;}
+.wpcf7 input[type="submit"]{border-radius:40px;font-weight:600;font-size:16px;cursor:pointer;background-color:#60c19f;padding:20px 40px;color:#ffffff;width:auto;border:none;text-transform:uppercase;}
+.wpcf7 input[type="submit"]:hover{background-color:#101010;}
+
+/* = Section2 CSS
+----------------------------------------------- */
+.right-BX{ border-radius:20px;}
+.right-BX:hover{ background-color:#8cc73e !important;}
+.right-BX:hover h5{ color:#fff !important;}
+.welcome-Leftbx{ position:relative;}
+.years-trip{ position:absolute; bottom:5%; right:5%; width:200px; height:200px; }
+.years-trip::before {content: ''; width: 85%; height: 85%; position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%); border: solid 2px #67c892; border-style:dashed;}
+.SF-Sidebar ul.latest-post li{ margin-bottom:25px !important; }
+.SF-Sidebar ul.latest-post li a.wp-block-latest-posts__post-title{ margin-bottom:10px !important; display:block;}
+
+/* = Blog page Design CSS
+----------------------------------------------- */
+ul.blog-list-style{ margin:0; padding:0; }
+ul.blog-list-style li{ background-color:#f2f2f2; padding:50px; margin-bottom:25px; border-radius:10px; display:flow-root;}
+ul.blog-list-style li .blog-thumbx{ width:30%; float:left; margin:0 35px 20px 0;}
+
+
+/* = Footer CSS
+----------------------------------------------- */
+.footer-3-column{ position:relative;}
+.footer-3-column h3.wp-block-heading{ position:relative; padding-bottom:20px;}
+.footer-3-column h3.wp-block-heading::before{ position: absolute; content:''; bottom:0; left:0; width:70px; height:2px; background-color:#8cc73e}
+ul.fs-footer-post{ margin:0; padding:0;}
+ul.fs-footer-post li{ list-style:none; margin-bottom:30px;}
+ul.fs-footer-post li .wp-block-latest-posts__featured-image{ margin-top:6px;}
+ul.fs-footer-post li .wp-block-latest-posts__featured-image img{ border-radius:10px;}
+ul.fs-footer-post li .wp-block-latest-posts__post-title{ margin-bottom:15px; display:block; line-height:22px;}
+ul.fs-footer-post li .wp-block-latest-posts__post-title:hover{ color:#8cc73e;}
+footer.wp-block-template-part{ margin-block-start:0 !important}

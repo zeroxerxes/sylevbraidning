@@ -1,0 +1,22 @@
+/* Mobile Portrait View */
+@media screen and (max-width:767px) {
+.header-extras{text-align:center; display:block;}
+.toggled .menu-toggle span{ background-color:#c09368;}
+.footer h1, .footer h2, .footer h3, .footer h4{margin:0px;}
+.header-cart{float: none; display: table; vertical-align: bottom; margin:0 auto; padding:10px 0;}
+.cart-customlocation{top:0px;}
+.custom-cart-count{top:-5px;}
+.header-account, .header-search-toggle{float:none; display:inline-block;}
+.heder-rightside{float:none;}
+.skt-header-book-btn{float:none; display:table; margin:0 auto;}
+.skt-header-book-btn a{margin:10px 0 20px 0;}
+.transheader{background-color:#0f0f0f !important;}
+.skt-nail-salon-banner{background-color:transparent; padding-top:0px; margin-top:-50px;}
+}
+
+/* Tablet View */
+@media screen and (max-width:1023px) and (min-width:768px) {
+.heder-rightside{margin: -43px 20px 30px 0;}	
+/*.copyright-area{background-color: #815e3d !important;}*/
+.copyright-txt{padding:0;}
+}

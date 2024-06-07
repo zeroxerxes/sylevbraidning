@@ -1,0 +1,591 @@
+Log created: 2024-05-18 21:49:08
+Type: transfer
+[2024-05-18 21:49:08][notice]server info fcgi:Off max execution time: 300 wp version:6.5.3 php version:8.1.28 db version:10.6.17 php ini:safe_mode: memory_limit:1024M memory_get_usage:2.71 MB memory_get_peak_usage:2.89 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-05-18 21:49:08][notice]Connect site success
+[2024-05-18 21:49:18][notice]start upload.
+[2024-05-18 21:49:18][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:0 B
+[2024-05-18 21:49:18][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:2097152
+[2024-05-18 21:49:18][notice]continue size:2097152 size1:304132500
+[2024-05-18 21:49:24][notice]start upload.
+[2024-05-18 21:49:24][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:2 MB
+[2024-05-18 21:49:24][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:4194304
+[2024-05-18 21:49:24][notice]continue size:4194304 size1:304132500
+[2024-05-18 21:49:29][notice]start upload.
+[2024-05-18 21:49:29][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:4 MB
+[2024-05-18 21:49:29][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:6291456
+[2024-05-18 21:49:29][notice]continue size:6291456 size1:304132500
+[2024-05-18 21:49:35][notice]start upload.
+[2024-05-18 21:49:35][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:6 MB
+[2024-05-18 21:49:35][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:8388608
+[2024-05-18 21:49:35][notice]continue size:8388608 size1:304132500
+[2024-05-18 21:49:41][notice]start upload.
+[2024-05-18 21:49:41][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:8 MB
+[2024-05-18 21:49:41][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:10485760
+[2024-05-18 21:49:41][notice]continue size:10485760 size1:304132500
+[2024-05-18 21:49:46][notice]start upload.
+[2024-05-18 21:49:46][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:10 MB
+[2024-05-18 21:49:46][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:12582912
+[2024-05-18 21:49:46][notice]continue size:12582912 size1:304132500
+[2024-05-18 21:49:51][notice]start upload.
+[2024-05-18 21:49:51][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:12 MB
+[2024-05-18 21:49:51][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:14680064
+[2024-05-18 21:49:51][notice]continue size:14680064 size1:304132500
+[2024-05-18 21:49:57][notice]start upload.
+[2024-05-18 21:49:57][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:14 MB
+[2024-05-18 21:49:57][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:16777216
+[2024-05-18 21:49:57][notice]continue size:16777216 size1:304132500
+[2024-05-18 21:50:02][notice]start upload.
+[2024-05-18 21:50:02][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:16 MB
+[2024-05-18 21:50:02][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:18874368
+[2024-05-18 21:50:02][notice]continue size:18874368 size1:304132500
+[2024-05-18 21:50:08][notice]start upload.
+[2024-05-18 21:50:08][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:18 MB
+[2024-05-18 21:50:08][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:20971520
+[2024-05-18 21:50:08][notice]continue size:20971520 size1:304132500
+[2024-05-18 21:50:14][notice]start upload.
+[2024-05-18 21:50:14][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:20 MB
+[2024-05-18 21:50:14][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:23068672
+[2024-05-18 21:50:14][notice]continue size:23068672 size1:304132500
+[2024-05-18 21:50:19][notice]start upload.
+[2024-05-18 21:50:19][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:22 MB
+[2024-05-18 21:50:19][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:25165824
+[2024-05-18 21:50:19][notice]continue size:25165824 size1:304132500
+[2024-05-18 21:50:25][notice]start upload.
+[2024-05-18 21:50:25][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:24 MB
+[2024-05-18 21:50:25][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:27262976
+[2024-05-18 21:50:25][notice]continue size:27262976 size1:304132500
+[2024-05-18 21:50:31][notice]start upload.
+[2024-05-18 21:50:31][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:26 MB
+[2024-05-18 21:50:31][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:29360128
+[2024-05-18 21:50:31][notice]continue size:29360128 size1:304132500
+[2024-05-18 21:50:36][notice]start upload.
+[2024-05-18 21:50:36][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:28 MB
+[2024-05-18 21:50:36][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:31457280
+[2024-05-18 21:50:36][notice]continue size:31457280 size1:304132500
+[2024-05-18 21:50:42][notice]start upload.
+[2024-05-18 21:50:42][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:30 MB
+[2024-05-18 21:50:42][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:33554432
+[2024-05-18 21:50:42][notice]continue size:33554432 size1:304132500
+[2024-05-18 21:50:47][notice]start upload.
+[2024-05-18 21:50:47][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:32 MB
+[2024-05-18 21:50:47][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:35651584
+[2024-05-18 21:50:47][notice]continue size:35651584 size1:304132500
+[2024-05-18 21:50:53][notice]start upload.
+[2024-05-18 21:50:53][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:34 MB
+[2024-05-18 21:50:53][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:37748736
+[2024-05-18 21:50:53][notice]continue size:37748736 size1:304132500
+[2024-05-18 21:50:59][notice]start upload.
+[2024-05-18 21:50:59][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:36 MB
+[2024-05-18 21:50:59][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:39845888
+[2024-05-18 21:50:59][notice]continue size:39845888 size1:304132500
+[2024-05-18 21:51:04][notice]start upload.
+[2024-05-18 21:51:04][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:38 MB
+[2024-05-18 21:51:04][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:41943040
+[2024-05-18 21:51:04][notice]continue size:41943040 size1:304132500
+[2024-05-18 21:51:09][notice]start upload.
+[2024-05-18 21:51:09][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:40 MB
+[2024-05-18 21:51:09][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:44040192
+[2024-05-18 21:51:09][notice]continue size:44040192 size1:304132500
+[2024-05-18 21:51:15][notice]start upload.
+[2024-05-18 21:51:15][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:42 MB
+[2024-05-18 21:51:15][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:46137344
+[2024-05-18 21:51:15][notice]continue size:46137344 size1:304132500
+[2024-05-18 21:51:21][notice]start upload.
+[2024-05-18 21:51:21][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:44 MB
+[2024-05-18 21:51:21][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:48234496
+[2024-05-18 21:51:21][notice]continue size:48234496 size1:304132500
+[2024-05-18 21:51:26][notice]start upload.
+[2024-05-18 21:51:26][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:46 MB
+[2024-05-18 21:51:26][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:50331648
+[2024-05-18 21:51:26][notice]continue size:50331648 size1:304132500
+[2024-05-18 21:51:32][notice]start upload.
+[2024-05-18 21:51:32][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:48 MB
+[2024-05-18 21:51:32][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:52428800
+[2024-05-18 21:51:32][notice]continue size:52428800 size1:304132500
+[2024-05-18 21:51:37][notice]start upload.
+[2024-05-18 21:51:37][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:50 MB
+[2024-05-18 21:51:37][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:54525952
+[2024-05-18 21:51:37][notice]continue size:54525952 size1:304132500
+[2024-05-18 21:51:42][notice]start upload.
+[2024-05-18 21:51:42][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:52 MB
+[2024-05-18 21:51:42][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:56623104
+[2024-05-18 21:51:42][notice]continue size:56623104 size1:304132500
+[2024-05-18 21:51:48][notice]start upload.
+[2024-05-18 21:51:48][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:54 MB
+[2024-05-18 21:51:48][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:58720256
+[2024-05-18 21:51:48][notice]continue size:58720256 size1:304132500
+[2024-05-18 21:51:53][notice]start upload.
+[2024-05-18 21:51:53][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:56 MB
+[2024-05-18 21:51:53][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:60817408
+[2024-05-18 21:51:53][notice]continue size:60817408 size1:304132500
+[2024-05-18 21:51:59][notice]start upload.
+[2024-05-18 21:51:59][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:58 MB
+[2024-05-18 21:51:59][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:62914560
+[2024-05-18 21:51:59][notice]continue size:62914560 size1:304132500
+[2024-05-18 21:52:06][notice]start upload.
+[2024-05-18 21:52:06][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:60 MB
+[2024-05-18 21:52:06][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:65011712
+[2024-05-18 21:52:06][notice]continue size:65011712 size1:304132500
+[2024-05-18 21:52:11][notice]start upload.
+[2024-05-18 21:52:11][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:62 MB
+[2024-05-18 21:52:11][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:67108864
+[2024-05-18 21:52:11][notice]continue size:67108864 size1:304132500
+[2024-05-18 21:52:16][notice]start upload.
+[2024-05-18 21:52:16][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:64 MB
+[2024-05-18 21:52:16][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:69206016
+[2024-05-18 21:52:16][notice]continue size:69206016 size1:304132500
+[2024-05-18 21:52:21][notice]start upload.
+[2024-05-18 21:52:21][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:66 MB
+[2024-05-18 21:52:21][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:71303168
+[2024-05-18 21:52:21][notice]continue size:71303168 size1:304132500
+[2024-05-18 21:52:26][notice]start upload.
+[2024-05-18 21:52:26][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:68 MB
+[2024-05-18 21:52:26][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:73400320
+[2024-05-18 21:52:26][notice]continue size:73400320 size1:304132500
+[2024-05-18 21:52:32][notice]start upload.
+[2024-05-18 21:52:32][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:70 MB
+[2024-05-18 21:52:32][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:75497472
+[2024-05-18 21:52:32][notice]continue size:75497472 size1:304132500
+[2024-05-18 21:52:37][notice]start upload.
+[2024-05-18 21:52:37][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:72 MB
+[2024-05-18 21:52:37][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:77594624
+[2024-05-18 21:52:37][notice]continue size:77594624 size1:304132500
+[2024-05-18 21:52:42][notice]start upload.
+[2024-05-18 21:52:42][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:74 MB
+[2024-05-18 21:52:42][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:79691776
+[2024-05-18 21:52:42][notice]continue size:79691776 size1:304132500
+[2024-05-18 21:52:48][notice]start upload.
+[2024-05-18 21:52:48][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:76 MB
+[2024-05-18 21:52:48][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:81788928
+[2024-05-18 21:52:48][notice]continue size:81788928 size1:304132500
+[2024-05-18 21:52:53][notice]start upload.
+[2024-05-18 21:52:53][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:78 MB
+[2024-05-18 21:52:53][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:83886080
+[2024-05-18 21:52:53][notice]continue size:83886080 size1:304132500
+[2024-05-18 21:52:58][notice]start upload.
+[2024-05-18 21:52:58][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:80 MB
+[2024-05-18 21:52:58][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:85983232
+[2024-05-18 21:52:58][notice]continue size:85983232 size1:304132500
+[2024-05-18 21:53:03][notice]start upload.
+[2024-05-18 21:53:03][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:82 MB
+[2024-05-18 21:53:03][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:88080384
+[2024-05-18 21:53:03][notice]continue size:88080384 size1:304132500
+[2024-05-18 21:53:09][notice]start upload.
+[2024-05-18 21:53:09][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:84 MB
+[2024-05-18 21:53:09][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:90177536
+[2024-05-18 21:53:09][notice]continue size:90177536 size1:304132500
+[2024-05-18 21:53:14][notice]start upload.
+[2024-05-18 21:53:14][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:86 MB
+[2024-05-18 21:53:14][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:92274688
+[2024-05-18 21:53:14][notice]continue size:92274688 size1:304132500
+[2024-05-18 21:53:19][notice]start upload.
+[2024-05-18 21:53:19][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:88 MB
+[2024-05-18 21:53:19][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:94371840
+[2024-05-18 21:53:19][notice]continue size:94371840 size1:304132500
+[2024-05-18 21:53:25][notice]start upload.
+[2024-05-18 21:53:25][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:90 MB
+[2024-05-18 21:53:25][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:96468992
+[2024-05-18 21:53:25][notice]continue size:96468992 size1:304132500
+[2024-05-18 21:53:30][notice]start upload.
+[2024-05-18 21:53:30][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:92 MB
+[2024-05-18 21:53:30][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:98566144
+[2024-05-18 21:53:30][notice]continue size:98566144 size1:304132500
+[2024-05-18 21:53:35][notice]start upload.
+[2024-05-18 21:53:35][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:94 MB
+[2024-05-18 21:53:35][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:100663296
+[2024-05-18 21:53:35][notice]continue size:100663296 size1:304132500
+[2024-05-18 21:53:40][notice]start upload.
+[2024-05-18 21:53:40][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:96 MB
+[2024-05-18 21:53:40][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:102760448
+[2024-05-18 21:53:40][notice]continue size:102760448 size1:304132500
+[2024-05-18 21:53:47][notice]start upload.
+[2024-05-18 21:53:47][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:98 MB
+[2024-05-18 21:53:47][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:104857600
+[2024-05-18 21:53:47][notice]continue size:104857600 size1:304132500
+[2024-05-18 21:53:52][notice]start upload.
+[2024-05-18 21:53:52][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:100 MB
+[2024-05-18 21:53:52][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:106954752
+[2024-05-18 21:53:52][notice]continue size:106954752 size1:304132500
+[2024-05-18 21:53:57][notice]start upload.
+[2024-05-18 21:53:57][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:102 MB
+[2024-05-18 21:53:57][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:109051904
+[2024-05-18 21:53:57][notice]continue size:109051904 size1:304132500
+[2024-05-18 21:54:03][notice]start upload.
+[2024-05-18 21:54:03][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:104 MB
+[2024-05-18 21:54:03][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:111149056
+[2024-05-18 21:54:03][notice]continue size:111149056 size1:304132500
+[2024-05-18 21:54:08][notice]start upload.
+[2024-05-18 21:54:08][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:106 MB
+[2024-05-18 21:54:08][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:113246208
+[2024-05-18 21:54:08][notice]continue size:113246208 size1:304132500
+[2024-05-18 21:54:13][notice]start upload.
+[2024-05-18 21:54:13][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:108 MB
+[2024-05-18 21:54:13][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:115343360
+[2024-05-18 21:54:13][notice]continue size:115343360 size1:304132500
+[2024-05-18 21:54:19][notice]start upload.
+[2024-05-18 21:54:19][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:110 MB
+[2024-05-18 21:54:19][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:117440512
+[2024-05-18 21:54:19][notice]continue size:117440512 size1:304132500
+[2024-05-18 21:54:24][notice]start upload.
+[2024-05-18 21:54:24][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:112 MB
+[2024-05-18 21:54:24][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:119537664
+[2024-05-18 21:54:24][notice]continue size:119537664 size1:304132500
+[2024-05-18 21:54:29][notice]start upload.
+[2024-05-18 21:54:29][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:114 MB
+[2024-05-18 21:54:29][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:121634816
+[2024-05-18 21:54:29][notice]continue size:121634816 size1:304132500
+[2024-05-18 21:54:36][notice]start upload.
+[2024-05-18 21:54:36][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:116 MB
+[2024-05-18 21:54:36][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:123731968
+[2024-05-18 21:54:36][notice]continue size:123731968 size1:304132500
+[2024-05-18 21:54:41][notice]start upload.
+[2024-05-18 21:54:41][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:118 MB
+[2024-05-18 21:54:41][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:125829120
+[2024-05-18 21:54:41][notice]continue size:125829120 size1:304132500
+[2024-05-18 21:54:46][notice]start upload.
+[2024-05-18 21:54:46][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:120 MB
+[2024-05-18 21:54:46][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:127926272
+[2024-05-18 21:54:46][notice]continue size:127926272 size1:304132500
+[2024-05-18 21:54:52][notice]start upload.
+[2024-05-18 21:54:52][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:122 MB
+[2024-05-18 21:54:52][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:130023424
+[2024-05-18 21:54:52][notice]continue size:130023424 size1:304132500
+[2024-05-18 21:54:57][notice]start upload.
+[2024-05-18 21:54:57][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:124 MB
+[2024-05-18 21:54:57][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:132120576
+[2024-05-18 21:54:57][notice]continue size:132120576 size1:304132500
+[2024-05-18 21:55:02][notice]start upload.
+[2024-05-18 21:55:02][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:126 MB
+[2024-05-18 21:55:02][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:134217728
+[2024-05-18 21:55:02][notice]continue size:134217728 size1:304132500
+[2024-05-18 21:55:08][notice]start upload.
+[2024-05-18 21:55:08][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:128 MB
+[2024-05-18 21:55:08][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:136314880
+[2024-05-18 21:55:08][notice]continue size:136314880 size1:304132500
+[2024-05-18 21:55:13][notice]start upload.
+[2024-05-18 21:55:13][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:130 MB
+[2024-05-18 21:55:13][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:138412032
+[2024-05-18 21:55:13][notice]continue size:138412032 size1:304132500
+[2024-05-18 21:55:19][notice]start upload.
+[2024-05-18 21:55:19][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:132 MB
+[2024-05-18 21:55:19][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:140509184
+[2024-05-18 21:55:19][notice]continue size:140509184 size1:304132500
+[2024-05-18 21:55:25][notice]start upload.
+[2024-05-18 21:55:25][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:134 MB
+[2024-05-18 21:55:25][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:142606336
+[2024-05-18 21:55:25][notice]continue size:142606336 size1:304132500
+[2024-05-18 21:55:31][notice]start upload.
+[2024-05-18 21:55:31][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:136 MB
+[2024-05-18 21:55:31][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:144703488
+[2024-05-18 21:55:31][notice]continue size:144703488 size1:304132500
+[2024-05-18 21:55:37][notice]start upload.
+[2024-05-18 21:55:37][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:138 MB
+[2024-05-18 21:55:37][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:146800640
+[2024-05-18 21:55:37][notice]continue size:146800640 size1:304132500
+[2024-05-18 21:55:42][notice]start upload.
+[2024-05-18 21:55:42][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:140 MB
+[2024-05-18 21:55:42][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:148897792
+[2024-05-18 21:55:42][notice]continue size:148897792 size1:304132500
+[2024-05-18 21:55:47][notice]start upload.
+[2024-05-18 21:55:47][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:142 MB
+[2024-05-18 21:55:47][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:150994944
+[2024-05-18 21:55:47][notice]continue size:150994944 size1:304132500
+[2024-05-18 21:55:53][notice]start upload.
+[2024-05-18 21:55:53][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:144 MB
+[2024-05-18 21:55:53][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:153092096
+[2024-05-18 21:55:53][notice]continue size:153092096 size1:304132500
+[2024-05-18 21:55:59][notice]start upload.
+[2024-05-18 21:55:59][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:146 MB
+[2024-05-18 21:55:59][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:155189248
+[2024-05-18 21:55:59][notice]continue size:155189248 size1:304132500
+[2024-05-18 21:56:06][notice]start upload.
+[2024-05-18 21:56:06][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:148 MB
+[2024-05-18 21:56:06][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:157286400
+[2024-05-18 21:56:06][notice]continue size:157286400 size1:304132500
+[2024-05-18 21:56:12][notice]start upload.
+[2024-05-18 21:56:12][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:150 MB
+[2024-05-18 21:56:13][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:159383552
+[2024-05-18 21:56:13][notice]continue size:159383552 size1:304132500
+[2024-05-18 21:56:18][notice]start upload.
+[2024-05-18 21:56:18][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:152 MB
+[2024-05-18 21:56:18][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:161480704
+[2024-05-18 21:56:18][notice]continue size:161480704 size1:304132500
+[2024-05-18 21:56:23][notice]start upload.
+[2024-05-18 21:56:23][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:154 MB
+[2024-05-18 21:56:23][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:163577856
+[2024-05-18 21:56:23][notice]continue size:163577856 size1:304132500
+[2024-05-18 21:56:29][notice]start upload.
+[2024-05-18 21:56:29][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:156 MB
+[2024-05-18 21:56:29][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:165675008
+[2024-05-18 21:56:29][notice]continue size:165675008 size1:304132500
+[2024-05-18 21:56:34][notice]start upload.
+[2024-05-18 21:56:34][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:158 MB
+[2024-05-18 21:56:34][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:167772160
+[2024-05-18 21:56:34][notice]continue size:167772160 size1:304132500
+[2024-05-18 21:56:40][notice]start upload.
+[2024-05-18 21:56:40][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:160 MB
+[2024-05-18 21:56:40][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:169869312
+[2024-05-18 21:56:40][notice]continue size:169869312 size1:304132500
+[2024-05-18 21:56:46][notice]start upload.
+[2024-05-18 21:56:46][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:162 MB
+[2024-05-18 21:56:46][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:171966464
+[2024-05-18 21:56:46][notice]continue size:171966464 size1:304132500
+[2024-05-18 21:56:51][notice]start upload.
+[2024-05-18 21:56:51][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:164 MB
+[2024-05-18 21:56:51][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:174063616
+[2024-05-18 21:56:51][notice]continue size:174063616 size1:304132500
+[2024-05-18 21:56:57][notice]start upload.
+[2024-05-18 21:56:57][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:166 MB
+[2024-05-18 21:56:57][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:176160768
+[2024-05-18 21:56:57][notice]continue size:176160768 size1:304132500
+[2024-05-18 21:57:02][notice]start upload.
+[2024-05-18 21:57:02][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:168 MB
+[2024-05-18 21:57:02][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:178257920
+[2024-05-18 21:57:02][notice]continue size:178257920 size1:304132500
+[2024-05-18 21:57:07][notice]start upload.
+[2024-05-18 21:57:07][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:170 MB
+[2024-05-18 21:57:07][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:180355072
+[2024-05-18 21:57:07][notice]continue size:180355072 size1:304132500
+[2024-05-18 21:57:13][notice]start upload.
+[2024-05-18 21:57:13][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:172 MB
+[2024-05-18 21:57:13][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:182452224
+[2024-05-18 21:57:13][notice]continue size:182452224 size1:304132500
+[2024-05-18 21:57:18][notice]start upload.
+[2024-05-18 21:57:18][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:174 MB
+[2024-05-18 21:57:18][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:184549376
+[2024-05-18 21:57:18][notice]continue size:184549376 size1:304132500
+[2024-05-18 21:57:24][notice]start upload.
+[2024-05-18 21:57:24][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:176 MB
+[2024-05-18 21:57:24][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:186646528
+[2024-05-18 21:57:24][notice]continue size:186646528 size1:304132500
+[2024-05-18 21:57:29][notice]start upload.
+[2024-05-18 21:57:29][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:178 MB
+[2024-05-18 21:57:29][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:188743680
+[2024-05-18 21:57:29][notice]continue size:188743680 size1:304132500
+[2024-05-18 21:57:34][notice]start upload.
+[2024-05-18 21:57:34][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:180 MB
+[2024-05-18 21:57:34][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:190840832
+[2024-05-18 21:57:34][notice]continue size:190840832 size1:304132500
+[2024-05-18 21:57:40][notice]start upload.
+[2024-05-18 21:57:40][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:182 MB
+[2024-05-18 21:57:40][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:192937984
+[2024-05-18 21:57:40][notice]continue size:192937984 size1:304132500
+[2024-05-18 21:57:45][notice]start upload.
+[2024-05-18 21:57:45][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:184 MB
+[2024-05-18 21:57:45][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:195035136
+[2024-05-18 21:57:45][notice]continue size:195035136 size1:304132500
+[2024-05-18 21:57:51][notice]start upload.
+[2024-05-18 21:57:51][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:186 MB
+[2024-05-18 21:57:51][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:197132288
+[2024-05-18 21:57:51][notice]continue size:197132288 size1:304132500
+[2024-05-18 21:57:56][notice]start upload.
+[2024-05-18 21:57:56][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:188 MB
+[2024-05-18 21:57:56][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:199229440
+[2024-05-18 21:57:56][notice]continue size:199229440 size1:304132500
+[2024-05-18 21:58:02][notice]start upload.
+[2024-05-18 21:58:02][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:190 MB
+[2024-05-18 21:58:02][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:201326592
+[2024-05-18 21:58:02][notice]continue size:201326592 size1:304132500
+[2024-05-18 21:58:07][notice]start upload.
+[2024-05-18 21:58:07][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:192 MB
+[2024-05-18 21:58:07][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:203423744
+[2024-05-18 21:58:07][notice]continue size:203423744 size1:304132500
+[2024-05-18 21:58:12][notice]start upload.
+[2024-05-18 21:58:12][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:194 MB
+[2024-05-18 21:58:12][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:205520896
+[2024-05-18 21:58:12][notice]continue size:205520896 size1:304132500
+[2024-05-18 21:58:18][notice]start upload.
+[2024-05-18 21:58:18][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:196 MB
+[2024-05-18 21:58:18][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:207618048
+[2024-05-18 21:58:18][notice]continue size:207618048 size1:304132500
+[2024-05-18 21:58:23][notice]start upload.
+[2024-05-18 21:58:23][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:198 MB
+[2024-05-18 21:58:23][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:209715200
+[2024-05-18 21:58:23][notice]continue size:209715200 size1:304132500
+[2024-05-18 21:58:29][notice]start upload.
+[2024-05-18 21:58:29][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:200 MB
+[2024-05-18 21:58:29][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:211812352
+[2024-05-18 21:58:29][notice]continue size:211812352 size1:304132500
+[2024-05-18 21:58:34][notice]start upload.
+[2024-05-18 21:58:34][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:202 MB
+[2024-05-18 21:58:34][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:213909504
+[2024-05-18 21:58:34][notice]continue size:213909504 size1:304132500
+[2024-05-18 21:58:39][notice]start upload.
+[2024-05-18 21:58:39][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:204 MB
+[2024-05-18 21:58:39][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:216006656
+[2024-05-18 21:58:39][notice]continue size:216006656 size1:304132500
+[2024-05-18 21:58:44][notice]start upload.
+[2024-05-18 21:58:44][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:206 MB
+[2024-05-18 21:58:44][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:218103808
+[2024-05-18 21:58:44][notice]continue size:218103808 size1:304132500
+[2024-05-18 21:58:50][notice]start upload.
+[2024-05-18 21:58:50][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:208 MB
+[2024-05-18 21:58:50][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:220200960
+[2024-05-18 21:58:50][notice]continue size:220200960 size1:304132500
+[2024-05-18 21:58:55][notice]start upload.
+[2024-05-18 21:58:55][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:210 MB
+[2024-05-18 21:58:55][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:222298112
+[2024-05-18 21:58:55][notice]continue size:222298112 size1:304132500
+[2024-05-18 21:59:00][notice]start upload.
+[2024-05-18 21:59:00][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:212 MB
+[2024-05-18 21:59:00][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:224395264
+[2024-05-18 21:59:00][notice]continue size:224395264 size1:304132500
+[2024-05-18 21:59:06][notice]start upload.
+[2024-05-18 21:59:06][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:214 MB
+[2024-05-18 21:59:06][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:226492416
+[2024-05-18 21:59:06][notice]continue size:226492416 size1:304132500
+[2024-05-18 21:59:11][notice]start upload.
+[2024-05-18 21:59:11][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:216 MB
+[2024-05-18 21:59:11][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:228589568
+[2024-05-18 21:59:11][notice]continue size:228589568 size1:304132500
+[2024-05-18 21:59:30][notice]Connect site success
+[2024-05-18 21:59:40][notice]start upload.
+[2024-05-18 21:59:40][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:218 MB
+[2024-05-18 21:59:40][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:230686720
+[2024-05-18 21:59:40][notice]continue size:230686720 size1:304132500
+[2024-05-18 21:59:45][notice]start upload.
+[2024-05-18 21:59:45][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:220 MB
+[2024-05-18 21:59:45][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:232783872
+[2024-05-18 21:59:45][notice]continue size:232783872 size1:304132500
+[2024-05-18 21:59:51][notice]start upload.
+[2024-05-18 21:59:51][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:222 MB
+[2024-05-18 21:59:51][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:234881024
+[2024-05-18 21:59:51][notice]continue size:234881024 size1:304132500
+[2024-05-18 21:59:56][notice]start upload.
+[2024-05-18 21:59:56][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:224 MB
+[2024-05-18 21:59:56][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:236978176
+[2024-05-18 21:59:56][notice]continue size:236978176 size1:304132500
+[2024-05-18 22:00:01][notice]start upload.
+[2024-05-18 22:00:01][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:226 MB
+[2024-05-18 22:00:01][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:239075328
+[2024-05-18 22:00:01][notice]continue size:239075328 size1:304132500
+[2024-05-18 22:00:08][notice]start upload.
+[2024-05-18 22:00:08][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:228 MB
+[2024-05-18 22:00:08][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:241172480
+[2024-05-18 22:00:08][notice]continue size:241172480 size1:304132500
+[2024-05-18 22:00:14][notice]start upload.
+[2024-05-18 22:00:14][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:230 MB
+[2024-05-18 22:00:14][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:243269632
+[2024-05-18 22:00:14][notice]continue size:243269632 size1:304132500
+[2024-05-18 22:00:20][notice]start upload.
+[2024-05-18 22:00:20][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:232 MB
+[2024-05-18 22:00:20][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:245366784
+[2024-05-18 22:00:20][notice]continue size:245366784 size1:304132500
+[2024-05-18 22:00:25][notice]start upload.
+[2024-05-18 22:00:25][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:234 MB
+[2024-05-18 22:00:25][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:247463936
+[2024-05-18 22:00:25][notice]continue size:247463936 size1:304132500
+[2024-05-18 22:00:30][notice]start upload.
+[2024-05-18 22:00:30][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:236 MB
+[2024-05-18 22:00:30][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:249561088
+[2024-05-18 22:00:30][notice]continue size:249561088 size1:304132500
+[2024-05-18 22:00:35][notice]start upload.
+[2024-05-18 22:00:35][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:238 MB
+[2024-05-18 22:00:35][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:251658240
+[2024-05-18 22:00:35][notice]continue size:251658240 size1:304132500
+[2024-05-18 22:00:41][notice]start upload.
+[2024-05-18 22:00:41][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:240 MB
+[2024-05-18 22:00:41][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:253755392
+[2024-05-18 22:00:41][notice]continue size:253755392 size1:304132500
+[2024-05-18 22:00:46][notice]start upload.
+[2024-05-18 22:00:46][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:242 MB
+[2024-05-18 22:00:46][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:255852544
+[2024-05-18 22:00:46][notice]continue size:255852544 size1:304132500
+[2024-05-18 22:00:51][notice]start upload.
+[2024-05-18 22:00:51][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:244 MB
+[2024-05-18 22:00:51][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:257949696
+[2024-05-18 22:00:51][notice]continue size:257949696 size1:304132500
+[2024-05-18 22:00:57][notice]start upload.
+[2024-05-18 22:00:57][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:246 MB
+[2024-05-18 22:00:57][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:260046848
+[2024-05-18 22:00:57][notice]continue size:260046848 size1:304132500
+[2024-05-18 22:01:03][notice]start upload.
+[2024-05-18 22:01:03][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:248 MB
+[2024-05-18 22:01:03][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:262144000
+[2024-05-18 22:01:03][notice]continue size:262144000 size1:304132500
+[2024-05-18 22:01:08][notice]start upload.
+[2024-05-18 22:01:08][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:250 MB
+[2024-05-18 22:01:08][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:264241152
+[2024-05-18 22:01:08][notice]continue size:264241152 size1:304132500
+[2024-05-18 22:01:13][notice]start upload.
+[2024-05-18 22:01:13][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:252 MB
+[2024-05-18 22:01:13][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:266338304
+[2024-05-18 22:01:13][notice]continue size:266338304 size1:304132500
+[2024-05-18 22:01:18][notice]start upload.
+[2024-05-18 22:01:18][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:254 MB
+[2024-05-18 22:01:18][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:268435456
+[2024-05-18 22:01:18][notice]continue size:268435456 size1:304132500
+[2024-05-18 22:01:23][notice]start upload.
+[2024-05-18 22:01:23][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:256 MB
+[2024-05-18 22:01:23][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:270532608
+[2024-05-18 22:01:23][notice]continue size:270532608 size1:304132500
+[2024-05-18 22:01:28][notice]start upload.
+[2024-05-18 22:01:28][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:258 MB
+[2024-05-18 22:01:28][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:272629760
+[2024-05-18 22:01:28][notice]continue size:272629760 size1:304132500
+[2024-05-18 22:01:33][notice]start upload.
+[2024-05-18 22:01:33][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:260 MB
+[2024-05-18 22:01:33][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:274726912
+[2024-05-18 22:01:33][notice]continue size:274726912 size1:304132500
+[2024-05-18 22:01:38][notice]start upload.
+[2024-05-18 22:01:38][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:262 MB
+[2024-05-18 22:01:38][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:276824064
+[2024-05-18 22:01:38][notice]continue size:276824064 size1:304132500
+[2024-05-18 22:01:44][notice]start upload.
+[2024-05-18 22:01:44][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:264 MB
+[2024-05-18 22:01:44][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:278921216
+[2024-05-18 22:01:44][notice]continue size:278921216 size1:304132500
+[2024-05-18 22:01:49][notice]start upload.
+[2024-05-18 22:01:49][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:266 MB
+[2024-05-18 22:01:49][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:281018368
+[2024-05-18 22:01:49][notice]continue size:281018368 size1:304132500
+[2024-05-18 22:01:56][notice]start upload.
+[2024-05-18 22:01:56][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:268 MB
+[2024-05-18 22:01:56][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:283115520
+[2024-05-18 22:01:56][notice]continue size:283115520 size1:304132500
+[2024-05-18 22:02:01][notice]start upload.
+[2024-05-18 22:02:01][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:270 MB
+[2024-05-18 22:02:01][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:285212672
+[2024-05-18 22:02:01][notice]continue size:285212672 size1:304132500
+[2024-05-18 22:02:06][notice]start upload.
+[2024-05-18 22:02:06][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:272 MB
+[2024-05-18 22:02:06][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:287309824
+[2024-05-18 22:02:06][notice]continue size:287309824 size1:304132500
+[2024-05-18 22:02:11][notice]start upload.
+[2024-05-18 22:02:11][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:274 MB
+[2024-05-18 22:02:11][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:289406976
+[2024-05-18 22:02:11][notice]continue size:289406976 size1:304132500
+[2024-05-18 22:02:30][notice]Connect site success
+[2024-05-18 22:02:40][notice]start upload.
+[2024-05-18 22:02:40][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:276 MB
+[2024-05-18 22:02:40][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:291504128
+[2024-05-18 22:02:40][notice]continue size:291504128 size1:304132500
+[2024-05-18 22:02:45][notice]start upload.
+[2024-05-18 22:02:45][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:278 MB
+[2024-05-18 22:02:45][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:293601280
+[2024-05-18 22:02:45][notice]continue size:293601280 size1:304132500
+[2024-05-18 22:02:50][notice]start upload.
+[2024-05-18 22:02:50][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:280 MB
+[2024-05-18 22:02:50][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:295698432
+[2024-05-18 22:02:50][notice]continue size:295698432 size1:304132500
+[2024-05-18 22:02:55][notice]start upload.
+[2024-05-18 22:02:55][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:282 MB
+[2024-05-18 22:02:55][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:297795584
+[2024-05-18 22:02:55][notice]continue size:297795584 size1:304132500
+[2024-05-18 22:03:01][notice]start upload.
+[2024-05-18 22:03:01][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:284 MB
+[2024-05-18 22:03:01][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:299892736
+[2024-05-18 22:03:01][notice]continue size:299892736 size1:304132500
+[2024-05-18 22:03:06][notice]start upload.
+[2024-05-18 22:03:06][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:286 MB
+[2024-05-18 22:03:07][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:301989888
+[2024-05-18 22:03:07][notice]continue size:301989888 size1:304132500
+[2024-05-18 22:03:15][notice]start upload.
+[2024-05-18 22:03:15][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:288 MB
+[2024-05-18 22:03:15][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:304087040
+[2024-05-18 22:03:15][notice]continue size:304087040 size1:304132500
+[2024-05-18 22:03:19][notice]start upload.
+[2024-05-18 22:03:19][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip offset:290 MB
+[2024-05-18 22:03:19][notice]Write file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip success size:304132500
+[2024-05-18 22:03:20][notice]rename temp file:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid_temp-6649220597ca5_2024-05-18-19-47_backup_all.zip to new name:/home/stylxmtx/public_html/wp-content/wpvividbackups/vbraidinghouse.com_wpvivid-6649220597ca5_2024-05-18-19-47_backup_all.zip
+[2024-05-18 22:03:24][notice]upload finished
